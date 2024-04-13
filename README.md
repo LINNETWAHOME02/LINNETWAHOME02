@@ -1,4 +1,4 @@
-# Hi there, I'm Linnet 8-)
+# Hi there, I'm Linnet
 
 # 💫 About Me:
 🔭 I’m a CS honors graduate from Indraprastha College for Women, University of Delhi, India.<br>🌱 I’m currently training as a Software Engineer at ALX Africa.<br>⚡ Fun fact: Learning everyday...
